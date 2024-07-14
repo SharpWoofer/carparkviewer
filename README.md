@@ -33,7 +33,7 @@ We aim to **leverage technology** to create an engaging and effective solution f
 
 Follow these simple steps to start using CarparkViewer:
 
-1. **Download and Run**: Open the [CarparkViewer.exe](path/to/CarparkViewer.exe) file.
+1. **Download and Run**: Open the [CarparkViewer.exe](/CarparkViewer.exe) file.
 2. **Bypass Windows Defender**: If prompted, click **Run Anyway** to proceed.
 3. **Select JSON File**: The program will open a file explorer. Choose the `sample_carpark.json` file.
 4. **View Information**: The car park information will be displayed.
