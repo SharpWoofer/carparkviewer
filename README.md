@@ -1,4 +1,4 @@
-# 🚗 CarparkViewer: NTU Techfest Hackathon 2023, Team 49
+# 🚗 CarparkViewer: NTU Techfest Hackathon 2023
 
 ![original](https://github.com/user-attachments/assets/8a53a0b8-f1d2-4672-a217-4404a1b911df)
 
