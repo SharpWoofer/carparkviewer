@@ -27,7 +27,7 @@ We aim to **leverage technology** to create an engaging and effective solution f
 
 ## 📸 Screenshots
 
-![Carpark Viewer Screenshot]() <!-- Add a relevant screenshot -->
+![image](https://github.com/user-attachments/assets/a640fd79-fd6c-4212-9af1-ef47ecb26d2a)
 
 ## 🚀 Getting Started
 
@@ -45,22 +45,30 @@ Here’s a basic example of the JSON file format:
 
 ```json
 {
-  "carpark": {
-    "id": "CP1234",
-    "name": "Carpark A",
-    "floors": [
-      {
-        "floor": 1,
-        "spaces": 100,
-        "occupied": 50
-      },
-      {
-        "floor": 2,
-        "spaces": 100,
-        "occupied": 30
-      }
+    "name": "Very Fictional Car Park",
+    "address": "221B Baker St.",
+    "twoHours": 2.00,
+    "subsequentHour": 1.30,
+    "levels": [
+        {
+            "storeyNo": 3,
+            "occupiedSlots": 46,
+            "totalSlots": 80,
+            "maintenance": false
+        },
+        {
+            "storeyNo": 2,
+            "occupiedSlots": 66,
+            "totalSlots": 80,
+            "maintenance": false
+        },
+        {
+            "storeyNo": 1,
+            "occupiedSlots": 12,
+            "totalSlots": 80,
+            "maintenance": false
+        }
     ]
-  }
 }
 
 ```
