@@ -5,13 +5,8 @@
 Welcome to **CarparkViewer**, a Unity-based application designed to help you visualize and manage car park data. This project was developed as part of the NTU Techfest Hackathon 2023 by Team 49.
 
 <details>
-  <summary> **Expand for more details** </summary>
-
-  ## More Information
-
-  - This is a detailed explanation of the feature.
-  - Here’s another detail about it.
-  - Additional information can be added here.
+  <summary> Certificate </summary> 
+  ![TechFest2023Hackathon_COP_team_49_HONG_QI_pages-to-jpg-0001](https://github.com/user-attachments/assets/77ec0692-7808-46d9-b8a2-d31653bc8e72)
 
 </details>
 
